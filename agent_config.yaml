@@ -1,0 +1,15 @@
+auditor:
+  agent_id: "08107e4b-f264-44be-b46a-5979025e8f4e"
+  api_key: "band_a_1781806150_QYVE88vW1-jvG7E-1qd0PW0J339qZlwA"
+
+enricher:
+  agent_id: "dbac0ba6-1680-4fdc-a60b-61d09879806e"
+  api_key: "band_a_1781806301_WADHmCC-uSVauEGceljfytZCa_MlKt4j"
+
+syncer:
+  agent_id: "5c74e13c-2576-4095-be17-2c56b60defe4"
+  api_key: "band_a_1781806376_N5PFHQiwaQghbvaYW9f1a_tv4oFYVcQk"
+
+reporter:
+  agent_id: "a4ee2424-b314-49df-9947-1b317e7c08cf"
+  api_key: "band_a_1781806427_w8SDNszbOdoN3E3EqkTDceg3R4OLYG1u"

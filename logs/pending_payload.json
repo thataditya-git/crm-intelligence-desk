@@ -1,0 +1,49 @@
+{
+  "stage": "sync_ready",
+  "timestamp": "2026-06-19T12:21:46.378165+00:00",
+  "record_count": 7,
+  "inputs": [
+    {
+      "id": "505082586822",
+      "properties": {
+        "phone": "+1-555-0606"
+      }
+    },
+    {
+      "id": "505279232722",
+      "properties": {
+        "phone": "+1-555-0303"
+      }
+    },
+    {
+      "id": "505375815356",
+      "properties": {
+        "phone": "+1-555-0505"
+      }
+    },
+    {
+      "id": "505378499289",
+      "properties": {
+        "phone": "+1-555-0101"
+      }
+    },
+    {
+      "id": "505401849572",
+      "properties": {
+        "jobtitle": "Sales Representative"
+      }
+    },
+    {
+      "id": "505407007464",
+      "properties": {
+        "jobtitle": "Systems Architect"
+      }
+    },
+    {
+      "id": "505408365273",
+      "properties": {
+        "jobtitle": "Operations Manager"
+      }
+    }
+  ]
+}

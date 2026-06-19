@@ -1,0 +1,7 @@
+band-sdk[anthropic]
+anthropic
+requests
+python-dotenv
+pyyaml
+streamlit
+pydantic

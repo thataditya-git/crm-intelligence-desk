@@ -1,0 +1,12 @@
+{
+  "Acme Corp":        { "phone": "+1-555-0101", "jobtitle": "Account Executive" },
+  "Initech":          { "phone": "+1-555-0303", "jobtitle": "Software Engineer" },
+  "Wayne Enterprises":{ "phone": "+1-555-0606", "jobtitle": "Business Analyst" },
+  "Oscorp":           { "phone": "+1-555-0505", "jobtitle": "Product Manager" },
+  "Umbrella Corp":    { "phone": "+1-555-0404", "jobtitle": "Sales Representative" },
+  "Stark Industries": { "phone": "+1-555-0707", "jobtitle": "Systems Architect" },
+  "Globex":           { "phone": "+1-555-0202", "jobtitle": "Operations Manager" },
+  "Nakatomi Corp":    { "phone": "+1-555-1010", "jobtitle": "Finance Director" },
+  "Soylent Corp":     { "phone": "+1-555-1111", "jobtitle": "Chief of Staff" },
+  "Dunder Mifflin":   { "phone": "+1-555-0808", "jobtitle": "Regional Manager" }
+}
